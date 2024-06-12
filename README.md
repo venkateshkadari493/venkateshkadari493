@@ -1,7 +1,7 @@
 ![logo](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)
 <h1 align="center">Hi 👋, I'm Venkatesh Kadari</h1>
 <h3 align="center">An Aspiring Data Analyst</h3>
-img align="right" alt="Coding" width="400" src="https://p1.hiclipart.com/preview/844/475/810/google-logo-analytics-data-data-analysis-data-science-google-marketing-platform-business-security-information-and-event-management-png-clipart.jpg"
+img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyhQcQ3aseg0PHs3EZUIAoXGELgd7EbtEBBg&s"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshkadari493&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshkadari493" /> </p>
 
